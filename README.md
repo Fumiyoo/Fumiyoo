@@ -18,7 +18,11 @@ Currently learning C# and JS
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 September 2022 - To: 23 September 2022
+
+Total Time: 1 hr 6 mins
+
+C#   1 hr 6 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
