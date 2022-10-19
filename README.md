@@ -17,7 +17,7 @@ Currently learning C# and JS
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 16 October 2022
+From: 21 September 2022 - To: 17 October 2022
 
 Total Time: 6 hrs 15 mins
 
