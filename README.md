@@ -10,7 +10,7 @@ I'm a student that's currently trying to start a game studio.
 
 ## 🛠 Skills
 
-Currently learning C# and JS
+Currently learning Java.
 
 
 ## 📊 Weekly development breakdown
