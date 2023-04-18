@@ -15,11 +15,11 @@ Currently learning Java.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 17 April 2023
+From: 21 September 2022 - To: 18 April 2023
 
-Total Time: 15 hrs 41 mins
+Total Time: 16 hrs 8 mins
 
-Other               7 hrs 50 mins   >>>>>>>>>>>>-------------   49.91 %
+Other               8 hrs 16 mins   >>>>>>>>>>>>>------------   51.29 %
 ```
 
 <!--END_SECTION:waka-->
