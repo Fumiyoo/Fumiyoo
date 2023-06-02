@@ -14,7 +14,7 @@ Currently learning Java.
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 21 September 2022 - To: 01 June 2023
 
 Total Time: 16 hrs 25 mins
