@@ -15,15 +15,15 @@ Currently learning Java.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2022 - To: 14 June 2023
+From: 21 September 2022 - To: 15 June 2023
 
-Total Time: 16 hrs 25 mins
+Total Time: 16 hrs 33 mins
 
-Other               8 hrs 33 mins   >>>>>>>>>>>>>------------   52.11 %
-C#                  4 hrs           >>>>>>-------------------   24.43 %
-Java                3 hrs 3 mins    >>>>>--------------------   18.64 %
-JavaScript          15 mins         -------------------------   01.55 %
-GUI_DESIGNER_FORM   14 mins         -------------------------   01.51 %
+Other               8 hrs 42 mins   >>>>>>>>>>>>>------------   52.54 %
+C#                  4 hrs           >>>>>>-------------------   24.21 %
+Java                3 hrs 3 mins    >>>>>--------------------   18.48 %
+JavaScript          15 mins         -------------------------   01.53 %
+GUI_DESIGNER_FORM   14 mins         -------------------------   01.50 %
 ```
 
 <!--END_SECTION:waka-->
