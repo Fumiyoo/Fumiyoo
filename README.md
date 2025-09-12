@@ -17,13 +17,13 @@ Currently learning Java.
 ```txt
 From: 21 September 2022 - To: 11 September 2025
 
-Total Time: 42 hrs 34 mins
+Total Time: 44 hrs 19 mins
 
-Other               24 hrs 56 mins  >>>>>>>>>>>>>>>----------   58.59 %
-Java                11 hrs 2 mins   >>>>>>-------------------   25.93 %
-C#                  4 hrs           >>-----------------------   09.42 %
-XML                 1 hr 27 mins    >------------------------   03.41 %
-YAML                32 mins         -------------------------   01.26 %
+Other               26 hrs 41 mins  >>>>>>>>>>>>>>>----------   60.22 %
+Java                11 hrs 2 mins   >>>>>>-------------------   24.91 %
+C#                  4 hrs           >>-----------------------   09.05 %
+XML                 1 hr 27 mins    >------------------------   03.27 %
+YAML                32 mins         -------------------------   01.21 %
 ```
 
 <!--END_SECTION:waka-->
