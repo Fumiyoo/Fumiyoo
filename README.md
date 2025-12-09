@@ -15,7 +15,7 @@ Currently learning Java.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2022 - To: 08 December 2025
+From: 21 September 2022 - To: 09 December 2025
 
 Total Time: 50 hrs 38 mins
 
