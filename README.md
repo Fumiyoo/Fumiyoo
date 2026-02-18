@@ -15,15 +15,15 @@ Currently learning Java.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2022 - To: 16 February 2026
+From: 21 September 2022 - To: 17 February 2026
 
 Total Time: 50 hrs 38 mins
 
-Other               26 hrs 41 mins  >>>>>>>>>>>>>------------   52.71 %
-Java                17 hrs 20 mins  >>>>>>>>>----------------   34.25 %
-C#                  4 hrs           >>-----------------------   07.92 %
-XML                 1 hr 27 mins    >------------------------   02.86 %
-YAML                32 mins         -------------------------   01.08 %
+Other               26 hrs 41 mins        >>>>>>>>>>>>>------------   52.71 %
+Java                17 hrs 20 mins        >>>>>>>>>----------------   34.25 %
+C#                  4 hrs                 >>-----------------------   07.92 %
+XML                 1 hr 27 mins          >------------------------   02.86 %
+YAML                32 mins               -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
